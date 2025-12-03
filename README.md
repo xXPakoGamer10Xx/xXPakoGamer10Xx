@@ -33,7 +33,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-**IA & Automatización (Mi Fuerte)**
+**IA & Automatización**
 ![N8N](https://img.shields.io/badge/N8N-FF6584?style=for-the-badge&logo=n8n&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
 
