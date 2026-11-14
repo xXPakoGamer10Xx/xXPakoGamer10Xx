@@ -27,7 +27,7 @@ El código de Temotiva es privado de la empresa; aquí muestro lo que sí puedo 
 | [Temotiva Flow](https://github.com/xXPakoGamer10Xx/Temotiva-flow) | Tablero de flujo interdepartamental con fases cerradas, dependencias, roles y registro de auditoría. [Demo](https://temotiva-flow.vercel.app) | Next.js, TypeScript, PostgreSQL |
 | [Concurso Ford](https://github.com/xXPakoGamer10Xx/Concurso-Ford) | Análisis y predicción de ventas de autos con dashboard y asistente de IA conversacional | Python, Streamlit, Plotly |
 | [Laboratorio Digital](https://github.com/xXPakoGamer10Xx/LaboratorioDigital) | App multiplataforma con calculadoras y ayudante con IA de Google | Flutter, Dart |
-| [App Hospital de Chiconcuac](https://github.com/xXPakoGamer10Xx/Aplicacion-del-Hospital-de-Chiconcuac) | Aplicación Android para procesos hospitalarios | Kotlin |
+| [App Hospital de Chiconcuac](https://github.com/xXPakoGamer10Xx/Aplicacion-del-Hospital-de-Chiconcuac) | Contenedor Android (WebView) del sistema web del hospital, con carga de archivos y pantalla de inicio | Kotlin, Jetpack Compose |
 
 ## Stack
 
